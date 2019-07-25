@@ -19,7 +19,7 @@ Using the dictionary we can create the inverted index. The entire process looks 
 </div>
 
 ## Goal
-The results are in this format: 
+In the end we know where each word appears in which documents. The results are in the following format:
 
 <div align="center"> 
 <img src="images/inverted_index.png">
