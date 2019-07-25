@@ -10,15 +10,15 @@ One way to represent documents is vector representation. Inverted indexing speed
 Create a dictionary for all words for all documents. Each word has it's own id. 
 
 <div align="center"> 
-<img src="images/dictionary.jpeg">
+<img src="images/dictionary.png">
 </div>
 
 <div align="center"> 
-<img src="images/inverted_index.jpeg">
+<img src="images/inverted_index.png">
 </div>
 
 <div align="center"> 
-<img src="images/whole_process.jpeg">
+<img src="images/whole_process.png">
 </div>
 
 
