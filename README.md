@@ -19,7 +19,8 @@ Using the dictionary we can create the inverted index. The entire process looks 
 </div>
 
 ## Goal
-The result looks like this: 
+The results are in this format: 
+
 <div align="center"> 
 <img src="images/inverted_index.png">
 </div>
